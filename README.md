@@ -14,7 +14,9 @@ JS React HTML CSS WebStorm Git Webpack
 📜 Certificates
 
 Front End Libraries https://www.freecodecamp.org/certification/fccd6cab771-3f64-4e4e-80a9-aec4b8e09aea/front-end-libraries 
+
 JavaScript Algorithms and Data Structures https://www.freecodecamp.org/certification/fccd6cab771-3f64-4e4e-80a9-aec4b8e09aea/javascript-algorithms-and-data-structures
+
 Responsive Web Design (HTML5, CSS) 
 https://www.freecodecamp.org/certification/fccd6cab771-3f64-4e4e-80a9-aec4b8e09aea/responsive-web-design
 
