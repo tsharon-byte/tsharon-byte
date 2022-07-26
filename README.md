@@ -8,3 +8,8 @@
 - 🌴 My hobby is tropical plants (citrus trees🍋)
 - 👯 Fun fact: dance salsa
 
+Languages and Tools:
+JS React HTML CSS WebStorm Git Webpack
+
+
+
