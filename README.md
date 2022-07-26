@@ -9,7 +9,8 @@
 - 👯 Fun fact: dance salsa
 
 Languages and Tools:
-JS React HTML CSS WebStorm Git Webpack
+
+[<img align="left" alt="JavaScript" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"/>][github] React HTML CSS WebStorm Git Webpack
 
 📜 Certificates
 
