@@ -11,6 +11,8 @@
 ### Codewars
 [![codewars](https://www.codewars.com/users/tsharon-byte/badges/large)](https://www.codewars.com/users/tsharon-byte)  
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tsharon-byte)](https://github.com/tsharon-byte/github-readme-stats)
+
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tsharon-byte&theme=solarized_dark)
 
