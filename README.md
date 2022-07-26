@@ -1,4 +1,4 @@
-### Tatiana Churkina 👋
+# Tatiana Churkina 👋
 ## Senior Java Script & React developer
 
 
@@ -8,7 +8,7 @@
 - 🌴 My hobby is tropical plants (citrus trees🍋)
 - :dancer: Fun fact: dance salsa
 
-# Codewars
+### Codewars
 [![codewars](https://www.codewars.com/users/tsharon-byte/badges/large)](https://www.codewars.com/users/tsharon-byte)  
  
 
