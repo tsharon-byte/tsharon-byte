@@ -6,7 +6,7 @@
 - 💾 I’m currently working as Senior Front-End developer on React JS
 - 🎓 I’m currently learning HTML/CSS/JS/React/Node/Webpack at Yandex Practicum
 - 🌴 My hobby is tropical plants (citrus trees🍋)
-- 👯 Fun fact: dance salsa
+- :dancer: Fun fact: dance salsa
 
 Languages and Tools:
 
