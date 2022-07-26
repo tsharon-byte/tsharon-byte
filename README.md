@@ -10,12 +10,7 @@
 
 Languages and Tools:
 
-[<img align="left" alt="JavaScript" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"/>]
-[<img align="left" alt="HTML" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"/>]
-[<img align="left" alt="CSS" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"/>]
-[<img align="left" alt="WebStorm" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"/>]
-[<img align="left" alt="GIT" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"/>]
-[<img align="left" alt="Webpack" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"/>]
+<img align="left" alt="JavaScript" width="40px" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"/>
 
 
 📜 Certificates
