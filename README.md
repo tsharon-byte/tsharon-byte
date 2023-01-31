@@ -75,9 +75,9 @@ Interaction with BE
 
 [Diploma](https://diploma.tsharon.nomoredomains.club/)
 
-[Diploma FE](https://github.com/tsharon-byte/movies-explorer-frontend)
+[Diploma code FE](https://github.com/tsharon-byte/movies-explorer-frontend)
 
-[Diploma BE](https://github.com/tsharon-byte/movies-explorer-api)
+[Diploma code BE](https://github.com/tsharon-byte/movies-explorer-api)
 
 ### Codewars
 [![codewars](https://www.codewars.com/users/tsharon-byte/badges/large)](https://www.codewars.com/users/tsharon-byte)  
