@@ -91,6 +91,7 @@ Interaction with BE
  
 
 📜 Certificates
+
 Certificate of completion of the Web Development Training Course (reg number 20232WD00011)
 
 [Front End Libraries](https://www.freecodecamp.org/certification/fccd6cab771-3f64-4e4e-80a9-aec4b8e09aea/front-end-libraries)
