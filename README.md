@@ -66,13 +66,17 @@ BEM
 Reviews
 
 [Mesto](https://tsharon-byte.github.io/mesto/)
+
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 Figma
 Responsive design
 Interaction with BE
 
+[Diploma](https://diploma.tsharon.nomoredomains.club/)
+
 [Diploma FE](https://github.com/tsharon-byte/movies-explorer-frontend)
+
 [Diploma BE](https://github.com/tsharon-byte/movies-explorer-api)
 
 ### Codewars
