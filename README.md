@@ -4,7 +4,7 @@
 
 
 - 💾 I’m currently working as Senior Front-End developer on React JS
-- 🎓 I’m currently learning HTML/CSS/JS/React/Node/Webpack at Yandex Practicum
+- 🎓 I've just got diploma of HTML/CSS/JS/React/Node/Webpack at Yandex Practicum
 - 🌴 My hobby is tropical plants (citrus trees🍋)
 - :dancer: Fun fact: dance salsa
 
@@ -65,6 +65,16 @@ Responsive design
 BEM
 Reviews
 
+[Mesto](https://tsharon-byte.github.io/mesto/)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+Figma
+Responsive design
+Interaction with BE
+
+[Diploma FE](https://github.com/tsharon-byte/movies-explorer-frontend)
+[Diploma BE](https://github.com/tsharon-byte/movies-explorer-api)
+
 ### Codewars
 [![codewars](https://www.codewars.com/users/tsharon-byte/badges/large)](https://www.codewars.com/users/tsharon-byte)  
 
@@ -81,13 +91,14 @@ Reviews
  
 
 📜 Certificates
+Certificate of completion of the Web Development Training Course (reg number 20232WD00011)
 
-Front End Libraries https://www.freecodecamp.org/certification/fccd6cab771-3f64-4e4e-80a9-aec4b8e09aea/front-end-libraries 
+[Front End Libraries](https://www.freecodecamp.org/certification/fccd6cab771-3f64-4e4e-80a9-aec4b8e09aea/front-end-libraries)
 
-JavaScript Algorithms and Data Structures https://www.freecodecamp.org/certification/fccd6cab771-3f64-4e4e-80a9-aec4b8e09aea/javascript-algorithms-and-data-structures
+[JavaScript Algorithms and Data Structures]( https://www.freecodecamp.org/certification/fccd6cab771-3f64-4e4e-80a9-aec4b8e09aea/javascript-algorithms-and-data-structures)
 
-Responsive Web Design (HTML5, CSS) 
-https://www.freecodecamp.org/certification/fccd6cab771-3f64-4e4e-80a9-aec4b8e09aea/responsive-web-design
+[Responsive Web Design (HTML5, CSS) ]
+(https://www.freecodecamp.org/certification/fccd6cab771-3f64-4e4e-80a9-aec4b8e09aea/responsive-web-design)
 
 
 
