@@ -98,8 +98,7 @@ Certificate of completion of the Web Development Training Course (reg number 202
 
 [JavaScript Algorithms and Data Structures]( https://www.freecodecamp.org/certification/fccd6cab771-3f64-4e4e-80a9-aec4b8e09aea/javascript-algorithms-and-data-structures)
 
-[Responsive Web Design HTML5, CSS]
-(https://www.freecodecamp.org/certification/fccd6cab771-3f64-4e4e-80a9-aec4b8e09aea/responsive-web-design)
+[Responsive Web Design HTML5, CSS](https://www.freecodecamp.org/certification/fccd6cab771-3f64-4e4e-80a9-aec4b8e09aea/responsive-web-design)
 
 
 
